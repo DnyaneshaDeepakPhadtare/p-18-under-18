@@ -1,0 +1,58 @@
+body {
+    color: white;
+    background-size: cover;
+    text-align: center;
+    height: 700px;
+
+
+}
+
+
+
+#mobile_number,
+#otp_number,
+#state,
+#dob,
+#gender {
+    height: 30px;
+    width: 350px;
+    text-align: center;
+}
+
+.heading {
+    color: rgb(255, 8, 8);
+    font-size: 50px;
+}
+
+#last_period_date,
+#specific_problem,
+#napkins_used_pad,
+#periods_blog,
+#talk_to_doctor {
+    height: 30px;
+    width: 350px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 2;
+    background-color: gainsboro;
+    color: black;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+}
+.btn-default{
+    width: 150px;
+    margin: 20px; 
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
